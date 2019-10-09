@@ -9,6 +9,8 @@
 double calc(double, double);
 void getSysStats();
 
+int test = 0;
+
 void clock();
 bool ring(bool);
 
